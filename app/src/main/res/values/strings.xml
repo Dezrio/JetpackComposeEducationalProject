@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">JetpackComposeEducationalProject</string>
+    <string name="image_title">Аватар контакта</string>
+    <string name="is_favourite_title">Контакт в избранных</string>
+    <string name="phone_title">Телефон:</string>
+    <string name="address_title">Адрес:</string>
+    <string name="email_title">Email:</string>
+
+    <string name="name_1">Евгений</string>
+    <string name="patronymic_1">Андреевич</string>
+    <string name="surname_1">Лукашин</string>
+    <string name="phone_1">+7 495 495 95 95</string>
+    <string name="address_1">г. Москва, 3-я улица Строителей, д. 25, кв. 12</string>
+    <string name="email_1">ELukashin@practicum.ru</string>
+
+    <string name="name_2">Василий</string>
+    <string name="surname_2">Кузякин</string>
+    <string name="phone_2">---</string>
+    <string name="address_2">Ивановская область, дер. Крутово, д.4</string>
 </resources>
